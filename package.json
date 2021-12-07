@@ -1,0 +1,19 @@
+{
+  "name": "api-node-asistencia-ts",
+  "version": "1.0.0",
+  "description": "Es un pequeño sistema que será creado con la finalidad de ayudar a los docentes a tomar y reportar la asistencia de los estudiantes. \\",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Asistencia",
+    "Maestros"
+  ],
+  "author": "Fernando Monroy",
+  "license": "ISC",
+  "devDependencies": {
+    "tslint": "^6.1.3"
+  }
+}
